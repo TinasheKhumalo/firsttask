@@ -48,7 +48,3 @@ A simple Spring Boot MVC application built for the Java Labs course at Vistula U
 
 ---
 
-If you want, I can:
-- Add a .gitignore file template,
-- Create a short CONTRIBUTING.md,
-- Or adapt this README to include CI badges (e.g., GitHub Actions) before you upload. Which would you like?
